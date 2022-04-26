@@ -1,0 +1,51 @@
+
+{
+    "Headers Comment":"This part is for the whole header",
+    "language": "English",
+    "search": "search...",
+    "discount.time.left": "Only 1 day and 15 hours left...",
+    "login": "login",
+    "products.categorization": "Categories",
+    "supermarket": "Supermarket",
+    "discounts.offers": "Discounts & Offers",
+    "myDigikala": "My Digikala",
+    "digiPlus": "Digi Plus",
+    "digiClub": "Digi Club",
+    "digiPay": "Digi Pay",
+    "faq": "FAQs",
+    "sell.products": "Sell Your Products",
+    "select.your.city": "Select Your City",
+
+    "Body Section": "This part is for the body",
+    "top.sliderr.image1": "/assets/images/askquestion.png",
+
+    "Riba.male.running.shoe": "Riba",
+    "Riba.male.running.shoe.price": "2,200,000 tomans",
+    "portable.charger": "Portable Charger",
+    "portable.charger.price": "410,000 tomans",
+    "macroz.faucet": "Macroze Faucet",
+    "macroz.faucet.price": "930,000 tomans",
+    "cooking.set": "Cooking Set",
+    "cooking.set.price": "1,800,000 tomans",
+    "add.to.cart": "Add to the cart",
+
+    "footer": "footer section",
+    "scroll.top": "Scroll to Top",
+    "contact.support": "Get 24/7 support 021 - 6193000 | 021 - 61930000",
+    "dl.digikala": "Download Digikal App",
+    "see.all": "See all",
+    "shopping.cart": "Shopping cart",
+    "next.purchase": "Next purchase",
+    "items.price": "Item's price",
+    "total.cart.price": "total cart price",
+    "purchase.description": "Transport price is calculated according to the size, weight and delivery time.",
+    "your.benefit.of.purchase": "Your benefit out of this purchase",
+    "Continue": "Continue",
+    "points": "points"
+
+    
+    
+    
+
+
+}
